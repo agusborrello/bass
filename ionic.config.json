@@ -1,0 +1,8 @@
+{
+  "name": "bass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b42edb47"
+}
